@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+    <restaurant name="满座儿" id="1"></restaurant>
+    <restaurant name="面香" id="2"></restaurant>
+    <restaurant name="订餐" id="3"></restaurant>
+    <restaurant name="西少爷" id="4"></restaurant>
+    <restaurant name="巴依老爷" id="5"></restaurant>
+    <restaurant name="汉堡王" id="6"></restaurant>
+    <restaurant name="螺蛳粉" id="7"></restaurant>
+    <restaurant name="庆丰包子" id="8"></restaurant>
+    <restaurant name="辣尚瘾" id="9"></restaurant>
+    <restaurant name="小陕娃" id="10"></restaurant>
+    <restaurant name="东方宫" id="11"></restaurant>
+    <restaurant name="THE STEPS BAR" id="12"></restaurant>
+    <restaurant name="流氓村" id="13"></restaurant>
+    <restaurant name="赛百味" id="14"></restaurant>
+    <restaurant name="麦当劳" id="15"></restaurant>
+    <restaurant name="桂系米粉" id="16"></restaurant>
+    <restaurant name="驴肉火烧" id="17"></restaurant>
+    <restaurant name="羊杂割" id="18"></restaurant>
+    <restaurant name="烤肉饭" id="19"></restaurant>
+</restaurants>

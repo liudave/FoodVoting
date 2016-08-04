@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User id="1" name="liudawei" real_name="刘大伟" pwd="111111">
+        <sex>0</sex>
+    </User>
+    <User id="2" name="taoshuai" real_name="陶帅" pwd="111111">
+        <sex>0</sex>
+    </User>
+    <User id="3" name="lihuanrui" real_name="李寰睿" pwd="111111">
+        <sex>1</sex>
+    </User>
+    <User id="4" name="zhangjie" real_name="张洁" pwd="111111">
+        <sex>1</sex>
+    </User>
+    <User id="5" name="wudi" real_name="吴迪" pwd="111111">
+        <sex>1</sex>
+    </User>
+    <User id="6" name="xujie" real_name="许杰" pwd="111111">
+        <sex>0</sex>
+    </User>
+    <User id="7" name="gaobin" real_name="高斌" pwd="111111">
+        <sex>0</sex>
+    </User>
+</Users>
